@@ -12,5 +12,11 @@ theme = "ananke"
     url = "/about/"
     weight = -110
 
+    [[menu.main]]
+    name = "Podcasts"
+    url = "/podcasts/"
+    weight = -100
+
 [params]
     featured_image = "/images/header.jpg"
+    ShowDatesOnPosts = false

@@ -1,6 +1,7 @@
 ---
 title: "Getting A Life Through Forgiveness"
 date: 04/04/20
+showthedate: false
 draft: true
 ---
 

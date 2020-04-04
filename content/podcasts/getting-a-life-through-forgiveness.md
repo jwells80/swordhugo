@@ -2,7 +2,7 @@
 title: "Getting A Life Through Forgiveness"
 date: 04/04/20
 showthedate: false
-draft: true
+
 ---
 
 "I must forgive you so that I can get past you." Learn the 7 steps you need

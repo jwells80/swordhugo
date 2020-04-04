@@ -2,7 +2,7 @@
 title: "Men of Valor"
 date: "April 4, 2020"
 showthedate: false
-draft: true
+
 ---
 
 Using the story of Gideon, Buffy St. John encourages men to "Take Your

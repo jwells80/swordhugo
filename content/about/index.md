@@ -1,6 +1,7 @@
 ---
-title: "About"
+title: "About Us"
 menu: "About"
+featured_image: "/images/header.jpg"
 ---
 
 Buffy St. John was born in Youngstown, Ohio and was raised under the influence of legendary Evangelist Kathryn Kuhlman. From an early age, Buffy knew that God had placed a call on her life. Yet, as a result of child abuse and other issues, she spent several years running from God and the call to ministry.

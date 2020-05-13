@@ -1,7 +1,7 @@
 baseURL = "https://condescending-lamport-de6648.netlify.com/"
 languageCode = "en-us"
 title = "Sword Radio"
-theme = "ananke"
+theme = "mytheme"
 disqusShortname = "swordradio"
 paginate = 9
 

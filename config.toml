@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Sword Radio"
 theme = "ananke"
 disqusShortname = "swordradio"
+paginate = 9
 
 [menu]
 

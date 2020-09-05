@@ -17,4 +17,5 @@ Buffy preaches a call to repentance. Without a repentant heart we cannot worship
 ### Our Ministries
 
 [Declare The Word](//declaretheword.com)
+
 [Highlanders Heart](//highlandersheart.com)

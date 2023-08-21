@@ -6,4 +6,4 @@ showthedate: false
 
 Do you ever find yourself looking back at the past? What you should have done or what you have accomplished? Isn't it time to MOVE ON? Listen in and get up and get going!
 <!--more-->
-{{< audio src="//media.declaretheword.com/sword_radio/move-on.mp3">}}
+{{< audio src="http://media.declaretheword.com/sword_radio/move-on.mp3">}}

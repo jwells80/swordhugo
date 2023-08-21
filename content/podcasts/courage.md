@@ -6,4 +6,4 @@ showthedate: false
 
 Have you ever found yourself facing a decision that would change the direction of your life and fear has set in? Stay tuned as Buffy encourages you to be courageous.
 <!--more-->
-{{< audio src="https://buffystjohn.audioacrobat.com/download/cb2a112b-1558-46d5-83df-c4aa3048d3b5.mp3" >}}
+{{< audio src="//media.declaretheword.com/sword_radio/courag.mp3" >}}
